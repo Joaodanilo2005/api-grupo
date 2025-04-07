@@ -90,6 +90,6 @@ o	&$data: Uma referência a um array $data, que será modificado dentro da funç
 •	Retorna uma mensagem confirmando que a API está funcionando corretamente.
 •	Exemplo de uso:  
 
-•	Resposta esperada:  
+•	Resposta esperada:  .
 
 
